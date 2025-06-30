@@ -1,0 +1,5 @@
+{
+  "name": "AI Blog Weaver",
+  "description": "An elegant blog platform that leverages the Gemini API to dynamically generate insightful articles on any topic, complete with relevant imagery.",
+  "requestFramePermissions": []
+}
